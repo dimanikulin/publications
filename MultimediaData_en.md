@@ -47,7 +47,7 @@ It often refers to data that represents various media formats used to record det
 The most widely used formats of data are numbers, alphanumeric characters, text, images, audio and video.
 
 In common usage, people refer to a data set as **multimedia** only when time-dependent [[data]](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-39940-9_1008) such as audio and video are involved.
-<img src="Images/Multimediadata.gif" alt="Multimediadata.gif"/>
+<img src="images/Multimediadata.gif" alt="Multimediadata.gif"/>
 Three subclasses of the **multimedia** data are distinguished: multidimensional (also known as spatial), dynamic and static.
 
 **Multidimensional multimedia** includes:
@@ -75,7 +75,7 @@ This year people will shoot an estimated 1.5 trillion images, according to predi
 There is a need to search among various types of **media** because there is a massive amount of **multimedia** material in the globe and frequently a lot of **multimedia** content in a typical family (i.e., images).
 The systems that implement this market request are referred to as **Multimedia Information Retrieval (Multimedia IR)** systems.
 
-<img src="Images/Multimediadatavolume.png" alt="Multimediadatavolume.png" />
+<img src="images/Multimediadatavolume.png" alt="Multimediadatavolume.png" />
 
 **Multimedia IR systems** often offer services like multimedia information storage, indexing, searching and distribution.
 Additionally, they might include functions such as the extraction of descriptive information from **multimedia** data.

@@ -53,4 +53,4 @@ work, punctuality, discipline, surnames, workplace anecdotes, humorous stories.
 
 ПС. История невыдуманная )
 
-<img src="./Images/YuriyNikulin.jpg" alt="Yuriy Nikulin" />
+<img src="./images/YuriyNikulin.jpg" alt="Yuriy Nikulin" />

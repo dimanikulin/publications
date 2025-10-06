@@ -103,7 +103,7 @@ You will gain insights into the following:
 
 By reading this paper, you will develop a deeper understanding of **architecture drift and erosion**, the limitations of **manual reviews**, the benefits of **automation**, and important considerations when evaluating architecture review solutions.
 
-<img src="./Images/DAGBusinessContext1.jpg" alt="DAG Business Context 1" />
+<img src="./images/DAGBusinessContext1.jpg" alt="DAG Business Context 1" />
 
 # Solution requirements
 
@@ -200,7 +200,7 @@ This allows users to gain insights into the technologies and resources utilized 
 Furthermore, the solution enables users to request inventories of specific **elements**, including **languages**, **frameworks**, **libraries**, and **databases**, at any time.
 This feature provides a convenient way to access comprehensive information about the software application's underlying components and dependencies.
 
-An example of text output might be [following](./Images/DAGBusinessContext3.png)
+An example of text output might be [following](./images/DAGBusinessContext3.png)
 
 | # | Level                | Priority              | Issue                  | Suggestion   |
 | - | ---------------------|---------------------- |----------------------- |:-------------:|
@@ -228,7 +228,7 @@ This graphic format allows users to annotate and tag components and inventory it
 
 Here's an example of a graphic output:
 
-<img src="./Images/DAGBusinessContext2.png" alt="DAG Business Context 2" />
+<img src="./images/DAGBusinessContext2.png" alt="DAG Business Context 2" />
 
 In the **graphic** representation above, **four services** and **one database** are identified within the software architecture.
 The diagram clearly illustrates the relationships between these components and the direction of communication between them.

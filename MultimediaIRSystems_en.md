@@ -55,7 +55,7 @@ Let's make a brief overview of the **Multimedia IR systems**.
 **Information retrieval (IR)** is the process of finding information system resources from a collection of those resources that are pertinent to an information demand, according to [Wikipedia](https://en.wikipedia.org/wiki/Information_retrieval).
 Furthermore, **Multimedia information retrieval** (MMIR or MIR) is a research area of computer science that aims to extract semantic information from **multimedia data** sources, according to [Wikipedia](https://en.wikipedia.org/wiki/Multimedia_information_retrieval) as well.
 Information is gathered from a variety of sources, including directly perceivable media like audio, image, and video, indirectly perceivable sources like text, semantic descriptions, and biosignals, as well as not perceivable sources such as bioinformation, stock prices, etc.
-<img src="Images/MultimediaIRsystemsoverview.png" alt="MultimediaIRsystemsoverview.png"/>
+<img src="images/MultimediaIRsystemsoverview.png" alt="MultimediaIRsystemsoverview.png"/>
 A computer system for browsing, searching, and retrieving images from a sizable database of digital images is called an **Image Retrieval system**.
 In order to execute retrieval over the words annotated to the photos, the majority of conventional and traditional techniques of image retrieval employ a certain method of adding information to the images, such as captioning, keywords, titles or [descriptions](https://en.wikipedia.org/wiki/Image_retrieval).
 
@@ -65,7 +65,7 @@ However, those systems might also have features like the ability to extract desc
 It goes without saying that if an average family does not have the **Multimedia IR** system to search for one item in thirty thousand photos, it would almost be impossible to find that one item by means of manual search.
 For this reason, the prospects offered by **Multimedia IR systems** would be of great interest to regular people.
 
-<img src="Images/UserneedsinMultimediaIRSystems.png" alt="UserneedsinMultimediaIRSystems.png"/>
+<img src="images/UserneedsinMultimediaIRSystems.png" alt="UserneedsinMultimediaIRSystems.png"/>
 The capacity to swiftly and simply search through the photo album is the essential requirement from the perspective of the end user when they are visiting the photo album.
 It will also provide cataloging and search result browsing in addition to search functionality.
 Obviously, the search systems must deliver accurate and complete search results.

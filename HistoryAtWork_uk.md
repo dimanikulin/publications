@@ -87,7 +87,7 @@ Business, Negotiation, Contract, Advertising, Corporate Affairs, Bureaucracy, Co
 Після 15 хвилин мук я вже вмію збирати степлери наосліп, хоч і не з першого разу.
 Щоправда, у мене іноді виходять діроколи.
 
-<img src="./Images/buildingInStone.jfif" alt="building In Stone" />
+<img src="./images/buildingInStone.jfif" alt="building In Stone" />
 
 У вже скріпленому документі, виявляється, за словами секретаря, немає підпису економістів, які благо опинилися на місці.
 І ось тут я дізнаюся від **економістки №1**, що виявляється змінилася форма калькуляції договору.

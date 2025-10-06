@@ -54,7 +54,7 @@ By shedding light on strengths, weaknesses, and future trajectories, we endeavor
 Let's compare several **multimedia IR** systems by going over the above-mentioned requirements and needs.
 The best approach here would be to choose one offline and one online system, since some users could feel free to use **multimedia IR** systems that are integrated with online storage (like Cloud ones), while others want to utilize offline **Multimedia IR** systems.
 Similarly, the proprietary and open systems should be included in the comparison.
-<img src="Images/ComparisonoftheprivateMultimediaIRsystems.gif" alt="ComparisonoftheprivateMultimediaIRsystems.gif" />
+<img src="images/ComparisonoftheprivateMultimediaIRsystems.gif" alt="ComparisonoftheprivateMultimediaIRsystems.gif" />
 Below is the list of them with brief descriptions:
 
 - **[Synology Moments](https://www.synology.com/en-global/dsm/feature/moments)** � a system that is aimed at collecting all user�s images and videos in one secure location and organizing them in an entirely new way. Synology Moments is the brand-new photo solution for personal and home and personal use, offering a modern browsing experience with the image recognition technique.
@@ -62,9 +62,9 @@ Below is the list of them with brief descriptions:
 - **[Google Photos](https://en.wikipedia.org/wiki/Google_Photos)** � a photo sharing and storage service, developed by Google. The service automatically analyzes photos, identifying various visual features and subjects. Users can search for anything in photos, with the service returning results in three major categories: People, Places, and Things.
 - **[digiKam](https://docs.kde.org/trunk5/en/digikam-doc/digikam/index.html)** � a free and open-source photo organizing software that can handle more than 100K images. The program has all the photo organizing functionality needed, such as uploading, deleting and sorting images.
 - **[Apple photo](https://en.wikipedia.org/wiki/Apple_Photos)** � a photo management and editing application, developed by Apple.
-<img src="Images/ComparisonofprivateMultimediaIRsystems.png" alt="ComparisonofprivateMultimediaIRsystems.png" />
+<img src="images/ComparisonofprivateMultimediaIRsystems.png" alt="ComparisonofprivateMultimediaIRsystems.png" />
 
-<img src="Images/ComparisonofprivateMultimediaIRsystems2.png" alt="ComparisonofprivateMultimediaIRsystems2.png" />
+<img src="images/ComparisonofprivateMultimediaIRsystems2.png" alt="ComparisonofprivateMultimediaIRsystems2.png" />
 
 # Well implemented features
 

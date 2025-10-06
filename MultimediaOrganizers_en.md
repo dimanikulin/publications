@@ -63,7 +63,7 @@ A list of **Photo Organizers** for professional photographers is created, and th
 Pertinent online [courses](https://www.organizepictures.com/organize-digital-photos-course) are available to instruct users on how to arrange the photos.
 More detailed comparison of photo organizers is provided by Wikipedia and is available [here](https://en.wikipedia.org/wiki/Image_organizer).
 
-<img src="Images/MultimediaOrganizers.png" alt="MultimediaOrganizers.png"/>
+<img src="images/MultimediaOrganizers.png" alt="MultimediaOrganizers.png"/>
 
 # Multimedia Organizer requirements
 

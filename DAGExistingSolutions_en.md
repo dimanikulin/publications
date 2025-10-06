@@ -85,7 +85,7 @@ As a result, it generates comprehensive software **architecture** diagrams, enco
 - Detects new connections
 - Provides a prioritized list of risks once changes occur
 
-<img src="./Images/DAGExistingSolutions1.png" alt="DAG Existing Solution 1" />
+<img src="./images/DAGExistingSolutions1.png" alt="DAG Existing Solution 1" />
 
 # Castsoftware Highlight
 
@@ -122,7 +122,7 @@ The tool enables users to manage dependencies through the creation of graphs and
 - Seamless integration into the CI/CD process, enabling real-time identification of code and architecture issues.
 - Provides insights into the cost and priority of fixing identified issues.
 
-<img src="./Images/DAGExistingSolutions2.png" alt="DAG Existing Solution 2" />
+<img src="./images/DAGExistingSolutions2.png" alt="DAG Existing Solution 2" />
 
 # Axivion Suite
 
@@ -179,7 +179,7 @@ With Axivion Suite, users can proactively maintain the integrity and quality of 
 |Simple to set up|+|+|+|+|
 |Check for cloud Readiness|-|+|-|-|
 
-As we can see from the [table](./Images/DAGExistingSolutions3.png) above, the existing **solutions** do not provide coverage for levels important for **architecture** governance, such as **DevOps**, **Data**, and **Compliance**.
+As we can see from the [table](./images/DAGExistingSolutions3.png) above, the existing **solutions** do not provide coverage for levels important for **architecture** governance, such as **DevOps**, **Data**, and **Compliance**.
 Additionally, not all inputs are supported by the overviewed solutions.
 For example, scanning DB is not supported by **Bionic.ai**, and scanning **UML** documentation is not supported at all.
 
