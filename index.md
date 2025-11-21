@@ -25,7 +25,8 @@
 |[OSINT](./OSINT_uk.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |[Static Analyzer](./StaticAnalyzer_en.md)| N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
-
+# In progress
+|[AI For Software Architects](./AIForSWArchitects_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 
 # Not ready yet
 
@@ -37,7 +38,6 @@
 |[What I Learned As DevOps](./WhatILearnedAsDevOps_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[What I Learned As Tester](./WhatILearnedAsTester_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 |[Where To Publish 2](./PublishWhere2_en.md)|TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
-|[AI For Software Architects](./AIForSWArchitects_en.md)| TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD | TBD/TBD/TBD/TBD |
 
 
 Format is *{Reviews/Likes/Comments/Reposts}*
