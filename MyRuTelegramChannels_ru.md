@@ -326,6 +326,8 @@ Bots that collect coordinates to target strikes or post direct personal informat
 | [Срочно Запорожье](https://t.me/zzzzzzzzzapp)      |
 | [eternoff](https://t.me/eternoff)                  |
 
+Джокер ДНР https://t.me/JokerDPR
+
 - Главное в Херсоне и области
 - ПАНЧЕНКО
 - XUA-фото войны
