@@ -39,23 +39,35 @@ In Europe we have **UrbanSitter**.
 
 Fortunatly during implementation I got access to video to recording from **DOU Days 2024**.
 DOU is a big IT society in Ukraine and they have some conference in May 2024 year. There was an architect from other company and he shown us architecture assistant based on generative AI. It helped him a lot to increase speed and decrease time of spent by to create architecture vision in times. What he said exactly he had to spend days to implement architecture and now using this assistant he had to spend just hours.
+
 <img src="./Images/AIForSWArchitects2.jpg" alt="TBD" />
+
 He provided example of simple solution to implement and he said before it it was 4 days and now using this assistant *It was able to make my architecture vision in four hours*. It was really challening for me. So I decided to check it to create Solution Architecture for my business case. It's based on **ChatGPT** so you prompt solution assistant, then you have response from it and so communication is done with this approach.
 It accepts the input information in three forms we have usually for pre-sales so it's **RFP,** **RFI** and usual text (just plain text).
 And what is good you can use some output from stage input for another stage. As the output it provides diagrams, tables and text description for everything. Also it migth provide the output in **Markdown** or **PlantUML** format.
 
-
 ## Preparation to use assistant
 
-TBD
+<img src="./Images/AIForSWArchitects3.png" alt="TBD" />
+
+But before you can use it you need to do some preparation and one is anonimization. So you need to remove any **PI information** because something can go wrong and your information or commercial details maybe will be known by other people.
+So you need to remove any **PI information** and prepare input in form of **RFI** or another text for this assistante.
 
 # Service marketplace platform - Success story
+So it was success story and also there was not so success story but I will tell it a little bit a bit later.
+I had five rounds of working with this assistant because when you have only one round information output can go in one wrong way and so on and had it in several rounds. Then I merged results and it was much more valuable and exact for me. By round I mean when you start working with assistant saying *hi let's start creation architecture vision* and until it tells *everything done so any clarification is welcome*. So from for *first* question to *the last* question it's one round for me.
 
 ## Service marketplace platform, Inputs
-TBD
+
+<img src="./Images/AIForSWArchitects4.png" alt="TBD" />
+
+I used СhatGPT to help me create RFI. It had overview, some background information about marketplace platform, when I'm going to implement it. Also there was project scope and requirements - key features, functionality and so on technical requirements. And as usual there were terms and condition. I was able just to attach file so I had its input as a file and not in plain text copied from an editor. So it parsed it.
+
 
 ## Service marketplace platform, Output
-TBD
+it output so this assistant is based on standard classic approach using creation architecture by Microsoft by software
+Dmytro Nikulin: institute and so on and it started from business goal and constrainted and constrained sorry then we move to discussion use cases and main features with quality attribute scenario and then it make me happy when I got design with several views with operation plan solution  road map and team composition.
+
 
 # Final Deck
 
