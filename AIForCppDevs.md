@@ -31,89 +31,52 @@ or ---
 
 # Introduction
 
-TODO point to learn and why it is important
-based on 
-https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification&WT.mc_id=certposter_poster_wwl
-
-
-## From prev
-- To demonstrate the GitHub Copilot operational modes such as chat, comments and inline suggestions alongside its flagship feature known as code assistance. This demonstration will utilize a business problem statement to guide the creation of a backend application.
-- To demonstrate the Copilot features such as Code Explanation, Bug Fixes, Generating Documentation, Generating Unit Test Cases and understanding the best practices, limitations and ethical considerations associated with code generation for backend engineers.
-- Code Generation & Refactoring – Using Copilot to create new functions, tests, docs, and improve existing code. How to prompt for such changes to improve results
-- How to write good prompts so Copilot generates accurate code or content
-- Best Practices & Limitations – Understanding when Copilot helps, when it doesn’t, and how to validate its output safely.
 
 # Preqrequstires
-- GitHub account
-- Access to GitHub Copilot (trial or paid subscription)
-- Visual Studio Code (VS Code) installed on your machine
-- Basic understanding of C++ programming concepts and familiarity with GitHub
-- Some repository to use (might be my one)
 
 ---
 =======Session 1=========
 # Inro 5 min
-- agenda
-- Preqrequstires
 
-# Developer use cases for AI with GitHub Copilot - 10 mins
-- Boost developer productivity with AI
-- Align with developer preferences
-- AI in the Software Development Lifecycle (SDLC)
-- Understand limitations and measure impact
+# Developer use cases for AI with GitHub Copilot 
+TBD
 
-# Introduction to GitHub Copilot - 15 mins
-- What is GitHub Copilot?
-- Exercise - Set up GitHub Copilot to work with Visual Studio Code
-- Сonfigure, and troubleshoot GitHub Copilot
+# Introduction to GitHub Copilot 
+TBD
 
-# GitHub Copilot Across Environments: IDE, Chat, GitHub.com, and Command Line Techniques - 20 mins
-- Code completion with GitHub Copilot
-- GitHub Copilot Chat
-- GitHub Copilot on GitHub.com
-- GitHub Copilot for the Command Line
+# GitHub Copilot Across Environments: IDE, Chat, GitHub.com, and Command Line Techniques 
+TBD
 
-# QA - 10 mins
+# QA 
 
 ---
 =======Session 2=========
 
 # Introduction to prompt engineering with GitHub Copilot - 10 mins
-- Prompt engineering foundations and best practices
+TBD
 
 # Using GitHub Copilot with С++ - 40 mins
-- Exercise - Develop with AI-powered code suggestions by using GitHub Copilot and VS Code
-- Use GitHub Copilot with С++
-- Exercise - Refactor legacy code
-- Advanced GitHub Copilot features
-- Applied GitHub Copilot techniques
-- Exercise - Update a TBD with GitHub Copilot
+TBD
+
 # QA - 10 mins
 
 ---
 =======Session 3=========
 # Develop unit tests using GitHub Copilot tools 30 mins
-- Examine the unit testing tools and environment
-- Create unit tests using the Generate Tests smart action
-- Create unit tests using Inline Chat
-- Create unit tests using Chat view modes
-- Exercise - Develop unit tests using GitHub Copilot
+TBD
 
 # Documentation 15 mins
- - Doxygen notations
- - MD notation
- - Exercise - Document code
- - Show example of docs
+TBD
 
  # QA - 15 mins
 ---
 =======Session 4=========
 # Leveling up code reviews and pull requests with GitHub Copilot 30 mins
-- What GitHub Copilot adds to the review process
-- Using Copilot as a reviewer in GitHub.com
-- Catching issues early and automating reviews with Copilot
-- Measuring impact and optimizing premium request units (PRUs)
-- Exercise - GitHub Copilot code review
+TBD
+
+# Fixing the issues with copilot 
+TBD
+
 # QA - 30 mins
 
 
@@ -123,6 +86,16 @@ TBD
 
 # Advanced - (recommended for production teams)
 
+# Responsible AI with GitHub Copilot
+- Mitigate AI risks
+- Microsoft and GitHub's six principles of responsible AI
+
+## Introduction to prompt engineering with GitHub Copilot
+- Prompt engineering foundations and best practices
+- GitHub Copilot user prompt process flow
+- GitHub Copilot data
+- GitHub Copilot Large Language Models (LLMs)
+
 ## Management and customization considerations with GitHub Copilot
 - Explore GitHub Copilot plans and their associated management and customization features
 - Explore contractual protections in GitHub Copilot and disabling matching public code
@@ -131,6 +104,8 @@ TBD
 
 ## Introduction to Copilot Spaces
 - Creating your first space
+- Sharing, Discoverability, and Governance
+- Do's and Don'ts of Working in a Space
 - Exercise - Democratize tribal knowledge using Copilot Spaces
 
 ## Building applications with GitHub Copilot agent mode
@@ -146,9 +121,68 @@ TBD
 - Responsible use of GitHub Copilot coding agent on GitHub.com
 - Exercise - Expand your team with Copilot coding agent
 
-## Introduction to MCP Server
-???
+## Developer use cases for AI with GitHub Copilot
+- Boost developer productivity with AI
+- Align with developer preferences
+- AI in the Software Development Lifecycle (SDLC)
+- Understand limitations and measure impact
 
+## Introduction to MCP Server
+- Simplify your AI workflow with GitHub MCP Server
+- Configure, connect, and use GitHub MCP Server in VS Code
+- Using GitHub MCP Server with Copilot Chat
+- Exercise - Integrate MCP with GitHub Copilot
+
+# Advanced Prompt Engineering for C++
+## Topics
+Writing effective prompts:
+- “Act as a senior C++ architect…”
+- “Follow SOLID principles…”
+
+Reducing hallucinations
+Using Copilot Chat for:
+- Refactoring plans
+- Architecture discussions
+- Context control (selective code highlighting)
+
+## Exercise
+
+- Refactor legacy C-style code to modern C++
+- Optimize performance-critical code
+- Ask Copilot to explain undefined behavior risks
+
+# Patterns
+
+- Thread-safe queue
+- Observer pattern
+- Strategy pattern
+
+
+
+Run /plan before large changes
+As the session evolves, Copilot automatically compacts context to keep the plan coherent. When work spans multiple files, run /plan in Copilot CLI (or use Shift+Tab to enter plan mode) to generate a reviewable outline of what will change. Use /model to compare strategies across models. Automatic compaction keeps long-running sessions focused. Install Copilot CLI (npm install -g @github/copilot) to get started.
+
+Explore Copilot CLI →
+
+ 
+Standardize how agents behave
+across your team
+AGENTS.md, Agent Skills, and custom agents define shared instructions and tool access so Copilot behaves predictably across sessions, models, workflows, and contributors. This is useful when multiple engineers are delegating work into the same repo.
+
+https://docs.github.com/en/copilot/reference/customization-cheat-sheet?utm_source=lcm-mpu-dev-pro-get-started-Pro_UK_Day1&utm_medium=email&utm_campaign=FY26MAR-WW-LCM-PL-Free-Pro-PP-AA-Dev-TX-MPU
+
+ 
+/delegate work and review a draft PR
+Use /delegate in the CLI to assign tasks, explore /fleet for parallel subagents, and across your preferred models (using /model), and review sessions in the Agents tab. This keeps delegated work visible instead of detached from your repository.
+
+Learn more →
+
+ 
+Embed Copilot’s agent runtime in
+your own tools
+Use the Copilot SDK to build on the same GitHub-aware runtime Copilot runs on, with model routing and identity handled for you.Install Copilot CLI (npm install -g @github/copilot) to begin building with the SDK.
+
+Build with the Copilot SDK →
 
 <img src="./Images/TBD.jpg" alt="TBD" />
 
