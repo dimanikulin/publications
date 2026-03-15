@@ -64,12 +64,34 @@ I had five rounds of working with this assistant because when you have only one 
 I used СhatGPT to help me create RFI. It had overview, some background information about marketplace platform, when I'm going to implement it. Also there was project scope and requirements - key features, functionality and so on technical requirements. And as usual there were terms and condition. I was able just to attach file so I had its input as a file and not in plain text copied from an editor. So it parsed it.
 
 
-## Service marketplace platform, Output
-it output so this assistant is based on standard classic approach using creation architecture by Microsoft by software
-Dmytro Nikulin: institute and so on and it started from business goal and constrainted and constrained sorry then we move to discussion use cases and main features with quality attribute scenario and then it make me happy when I got design with several views with operation plan solution  road map and team composition.
+## Service marketplace platform, Outputs
+This this assistant output is based on standard classic approach like descibed by Microsoft or Software Institute.
+So it started from business goal and constrains. then it moved to discussion use cases and main features with quality attribute scenarios.
+And then it made me happy when I got design with several views with operation plan, solution road map and team composition.
+<img src="./Images/AIForSWArchitects5.png" alt="TBD" />
 
+What was good with this assistant at communication -  I felt like I'm speaking with a human architect who quite is experienced in this area because I was not experienced. Still I was able to challenge it. For example I asked this assistant to prove that this point is acceptable for me. Why it choose for example Azure as a cloud platform and it explained it. So it was a kind of real communication with a kind of real architect.
+
+As I said there were several diagrams and now you can see functional decomposition.
+it's layered architecture with front end layer, backend services and databases layer.
+
+<img src="./Images/AIForSWArchitects6.png" alt="TBD" />
+
+ Also there is integration layer with third parties like **payment gateways**, **Ad API** and **Google Analytics**.
+
+So it made three layer functional decomposition with description for each layer.
+
+And here is another functional decomposition with less details from another round.
+<img src="./Images/AIForSWArchitects7.png" alt="TBD" />
+
+ I just meontioned it here so you see it outputs differently in different rounds of working with that.
+ 
+ And as final step of working with resistant you will have architecture vision document. 
+ There will fundamental text description for each area - for team composition, for diagrams etc.
 
 # Final Deck
+
+Based on output I had from five rounds working with architecture assistant I created final deck.
 
 ## Context View
 
