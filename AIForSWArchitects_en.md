@@ -94,9 +94,20 @@ And here is another functional decomposition with less details from another roun
 Based on output I had from five rounds working with architecture assistant I created final deck.
 
 ## Context View
-
+It generated **Context View** so we see users like - *suppliers*, *customers* and *admins*
+Also we have *core components* with some details inside of platform - *web services*, *admin panel*, *notification service*
+And we have integration part - so *payment gateways*, *analytics* and *advertisement API*.
+<img src="./Images/AIForSWArchitects8.png" alt="TBD" />
 
 ## Decomposition View
+The next view is the Decomposition one - quite detailed view. And I was really happy to have it.
+We have again *backend services* layer, we have *front end* layer, we have *integration* with *external* system and *database* layer. 
+
+For *back end* we have several services order management notific
+Dmytro Nikulin: ification analytic user services working with padman so integration and product services and it communicates it work with user data product data and ordering data. in front end we have two interfaces for admin and for another people.  So for supplier and for customer and again we have communication integration with payments to payments like it was required from customer.
+Dmytro Nikulin: And again Google API deployment view no no it's not about using architecture in our solution.
+
+<img src="./Images/AIForSWArchitects9.png" alt="TBD" />
 
 
 ## Deployment View
@@ -109,7 +120,7 @@ Based on output I had from five rounds working with architecture assistant I cre
 ## Roadmap
 
 # Conclusion
-
+it doesn't fit with our global logic styles but it's a kind of automatic applying of styles for any diagram
 ## Timing
 
 ## What was good and what was not good
