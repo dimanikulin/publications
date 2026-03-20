@@ -103,15 +103,16 @@ And we have integration part - so *payment gateways*, *analytics* and *advertise
 The next view is the Decomposition one - quite detailed view. And I was really happy to have it.
 We have again *backend services* layer, we have *front end* layer, we have *integration* with *external* system and *database* layer. 
 
-For *back end* we have several services order management notific
-Dmytro Nikulin: ification analytic user services working with padman so integration and product services and it communicates it work with user data product data and ordering data. in front end we have two interfaces for admin and for another people.  So for supplier and for customer and again we have communication integration with payments to payments like it was required from customer.
-Dmytro Nikulin: And again Google API deployment view no no it's not about using architecture in our solution.
+For *back end* we have several services - *Order management*, *Notification*, *Analytic*, *User*, *Integration* and *product* ones.  It communicates with *user data*, *product data*, *order data* and *ordering data* from *DB* layer.
+In *front end* layer there are two interfaces - for admin and for another people - so for suppliers and for customers.
+And again we have integration with *Payments gateways* and *Google API* as it was required by the customer.
 
 <img src="./Images/AIForSWArchitects9.png" alt="TBD" />
 
 
 ## Deployment View
-
+ deployment view no no it's not about using architecture in our solution.
+ 
 ## Work breakdown structure
 
 
