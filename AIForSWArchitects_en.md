@@ -118,11 +118,17 @@ And again we have integration with *Payments gateways* and *Google API* as it wa
 ## Deployment View
 So moving to deployment view. It put here *backend and frontend clusters*, *payment gateways* like external systems and so on.
 What wasn't good for me - we don't know anything about exactk services we need to use here - no service name *GCP platform* we can use and it's quite misleading for me.
-<img src="./Images/AIForSWArchitects9.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects10.png" alt="TBD" />
 
 ## Core Team Composition
+It suggested this *core team composition*. So there is 12 people working with this product.
+So it has one *project manager*, *business analyst*, *solution architect*, five *software developers*, two *DevOps* and two *QA engineers* with their required skills and responsibilities.
+
+<img src="./Images/AIForSWArchitects11.png" alt="TBD" />
 
 ## Roadmap
+It provided road map so it has about one half an year to implement this project from *project initialization* until *post deployment support* so when it is already on production.
+<img src="./Images/AIForSWArchitects12.png" alt="TBD" />
 
 # Conclusion
 it doesn't fit with our global logic styles but it's a kind of automatic applying of styles for any diagram
