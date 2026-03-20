@@ -26,19 +26,22 @@ TBD
 or ---
 
 # Introduction
- I was a software developer in embedded area. So I worked as a *lead software developer* in big medical product and meanwhile I took part in mentorship in GL Architecture mentorship. During mentorship I got a business case to implement - service marketplace platform. You might know in Ukraine we have **Kabanchic** - it helps to connect people like plumbers, electric engineer and with other people like their customer so they connect each other to get provide/get the services with/in.
+
+I was a software developer in embedded area. So I worked as a *lead software developer* in big medical product and meanwhile I took part in mentorship in GL Architecture mentorship. During mentorship I got a business case to implement - service marketplace platform. You might know in Ukraine we have **Kabanchic** - it helps to connect people like plumbers, electric engineer and with other people like their customer so they connect each other to get provide/get the services with/in.
 In Europe we have **UrbanSitter**.
 
 # Service marketplace platform
 
- So *customer* wanted implementing this marketplace platform. They wanted from us to have **Visa cards** to integrate(payment using the cards), web money and bitcoins. Also they wanted to have **Google Analytics** and put some advertisement in their platform.
+So *customer* wanted implementing this marketplace platform. They wanted from us to have **Visa cards** to integrate(payment using the cards), web money and bitcoins. Also they wanted to have **Google Analytics** and put some advertisement in their platform.
  
  <img src="./Images/AIForSWArchitects1.jpg" alt="TBD" />
 
 # ChatGPT Solutions Architect Assistant
 
-Fortunatly during implementation I got access to video to recording from **DOU Days 2024**.
-DOU is a big IT society in Ukraine and they have some conference in May 2024 year. There was an architect from other company and he shown us architecture assistant based on generative AI. It helped him a lot to increase speed and decrease time of spent by to create architecture vision in times. What he said exactly he had to spend days to implement architecture and now using this assistant he had to spend just hours.
+Fortunatly during implementation I got access to video recording from **DOU Days 2024**.
+DOU is a big IT society in Ukraine and they have some conference in May 2024 year. There was an architect from other company and he shown us architecture assistant based on generative AI. So for example you are software developer and you can use GitHub Copilot to help to generate the code and this generative AI assitance can help you as an architect to generate Arhitecture Vision.
+So it helped him a lot to increase speed and decrease time of spent by to create architecture vision in times. What he said exactly he had to spend days to implement architecture and now using this assistant he had to spend just hours.
+Let simply say ChatGPT was customized to help architects so it's not usual flow for usual user and it will directly go to architect flow with inputs, outputs and another deviation.
 
 <img src="./Images/AIForSWArchitects2.jpg" alt="TBD" />
 
@@ -46,12 +49,16 @@ He provided example of simple solution to implement and he said before it it was
 It accepts the input information in three forms we have usually for pre-sales so it's **RFP,** **RFI** and usual text (just plain text).
 And what is good you can use some output from stage input for another stage. As the output it provides diagrams, tables and text description for everything. Also it migth provide the output in **Markdown** or **PlantUML** format.
 
+
 ## Preparation to use assistant
 
 <img src="./Images/AIForSWArchitects3.png" alt="TBD" />
 
-But before you can use it you need to do some preparation and one is anonimization. So you need to remove any **PI information** because something can go wrong and your information or commercial details maybe will be known by other people.
-So you need to remove any **PI information** and prepare input in form of **RFI** or another text for this assistante.
+If you ask - *what about data leaks and data sharing with third party company like open AI?*
+I will answer - *You need to have some preparation before using this assistant. So I had the usual RFI (request for information) and it had a lot of details from customer. And for sure I could not put everything from a RFI to my input to this assistance. So what I did I just removed everything from pictures, from text, from tables that could identify this RFI like request from that customer.*
+So it is anonimization and you need to remove any **PI information**
+
+And yes, you need to have input in form of **RFI**, **RFP** or another text for this assistante.
 
 # Service marketplace platform - Success story
 So it was success story and also there was not so success story but I will tell it a little bit a bit later.
@@ -62,7 +69,6 @@ I had five rounds of working with this assistant because when you have only one 
 <img src="./Images/AIForSWArchitects4.png" alt="TBD" />
 
 I used СhatGPT to help me create RFI. It had overview, some background information about marketplace platform, when I'm going to implement it. Also there was project scope and requirements - key features, functionality and so on technical requirements. And as usual there were terms and condition. I was able just to attach file so I had its input as a file and not in plain text copied from an editor. So it parsed it.
-
 
 ## Service marketplace platform, Outputs
 This this assistant output is based on standard classic approach like descibed by Microsoft or Software Institute.
@@ -109,12 +115,10 @@ And again we have integration with *Payments gateways* and *Google API* as it wa
 
 <img src="./Images/AIForSWArchitects9.png" alt="TBD" />
 
-
 ## Deployment View
- deployment view no no it's not about using architecture in our solution.
- 
-## Work breakdown structure
-
+So moving to deployment view. It put here *backend and frontend clusters*, *payment gateways* like external systems and so on.
+What wasn't good for me - we don't know anything about exactk services we need to use here - no service name *GCP platform* we can use and it's quite misleading for me.
+<img src="./Images/AIForSWArchitects9.png" alt="TBD" />
 
 ## Core Team Composition
 
@@ -122,6 +126,7 @@ And again we have integration with *Payments gateways* and *Google API* as it wa
 
 # Conclusion
 it doesn't fit with our global logic styles but it's a kind of automatic applying of styles for any diagram
+n. But let's say it can decrease time you spend on solution creation several times.  For example, I can spend a week to create good architecture vision for customer for RPI. by using this architecture assistant based on CHP I can decrease it one day or even less than one day.
 ## Timing
 
 ## What was good and what was not good
