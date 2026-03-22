@@ -27,8 +27,8 @@ or ---
 
 # Introduction
 
-I was a software developer in embedded area. So I worked as a *lead software developer* in big medical product and meanwhile I took part in mentorship in GL Architecture mentorship. During mentorship I got a business case to implement - service marketplace platform. You might know in Ukraine we have **Kabanchic** - it helps to connect people like plumbers, electric engineer and with other people like their customer so they connect each other to get provide/get the services with/in.
-In Europe we have **UrbanSitter**.
+I worked as a *lead software developer* in big medical product and meanwhile I took part in mentorship in GL Architecture mentorship. During mentorship I got a business case to implement - service marketplace platform. You might know in Ukraine we have **Kabanchic** - it helps to connect people like plumbers, electric engineer and with other people like their customer so they connect each other to get provide/get the services with/in.
+In Europe we have **UrbanSitter** and USA we have something similar
 
 # Service marketplace platform
 
@@ -49,6 +49,7 @@ He provided example of simple solution to implement and he said before it it was
 It accepts the input information in three forms we have usually for pre-sales so it's **RFP,** **RFI** and usual text (just plain text).
 And what is good you can use some output from stage input for another stage. As the output it provides diagrams, tables and text description for everything. Also it migth provide the output in **Markdown** or **PlantUML** format.
 
+This assistant was still in development, not sure about now.
 
 ## Preparation to use assistant
 
@@ -63,6 +64,7 @@ And yes, you need to have input in form of **RFI**, **RFP** or another text for 
 # Service marketplace platform - Success story
 So it was success story and also there was not so success story but I will tell it a little bit a bit later.
 I had five rounds of working with this assistant because when you have only one round information output can go in one wrong way and so on and had it in several rounds. Then I merged results and it was much more valuable and exact for me. By round I mean when you start working with assistant saying *hi let's start creation architecture vision* and until it tells *everything done so any clarification is welcome*. So from for *first* question to *the last* question it's one round for me.
+Please notice when you work with several rounds you could have different answers on the same question.
 
 ## Service marketplace platform, Inputs
 
@@ -124,21 +126,31 @@ What wasn't good for me - we don't know anything about exactk services we need t
 It suggested this *core team composition*. So there is 12 people working with this product.
 So it has one *project manager*, *business analyst*, *solution architect*, five *software developers*, two *DevOps* and two *QA engineers* with their required skills and responsibilities.
 
-<img src="./Images/AIForSWArchitects11.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects11.jpg" alt="TBD" />
 
 ## Roadmap
 It provided road map so it has about one half an year to implement this project from *project initialization* until *post deployment support* so when it is already on production.
-<img src="./Images/AIForSWArchitects12.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects12.jpg" alt="TBD" />
 
 # Conclusion
-it doesn't fit with our global logic styles but it's a kind of automatic applying of styles for any diagram
-n. But let's say it can decrease time you spend on solution creation several times.  For example, I can spend a week to create good architecture vision for customer for RPI. by using this architecture assistant based on CHP I can decrease it one day or even less than one day.
 ## Timing
+So for this particular quite simple use case business case I spent a half a day to get everything from *requirement definition* and *business case description* until *team composition*. I think if it was real life without help of assistant I would spend about three or even four days to create the those artifacts. So for me it decreased time four times I spent on architecture.
+<img src="./Images/AIForSWArchitects13.jpg" alt="TBD" />
 
-## What was good and what was not good
+## What was good and what was not good 
+It provides all diagrams in **plant UML** so you can insert this **Plant UML** for example **into Draw.IO** and it will generate htose diagrams.
+But all diagrams were portrait oriented and they didn't fit usual presentation page.
+Probably it can be changed it but I didn't ask it to change orientation to be not portrayed but album so all diagrams fit usual presentation.
+<img src="./Images/AIForSWArchitects14.png" alt="TBD" />
+The *context diagram* based on **plant UML** was quite good but keep too much details as for me inside of.
+And what I already said *deployment view* wasn't good in detail so it didn't provide cloud terms, cloud service names and so on.
+And it provided *CI views* and they were for me fully useless.
+Also As I said you can challenge it so retry asking question from another PoV.
+And it did not fit with our GL styles but it might be a kind of automatic applying of styles for any diagram.
 
 # Data Platform - Not success case
-
+ and so again there was good case with this platform
+ So I had everything I wanted from assistant every diagram skill set road and so on.  But there was another business case big data data plat platform and this assistant didn't help me. 
 ## Data Platform
 TBD
 
