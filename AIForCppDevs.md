@@ -86,7 +86,7 @@ TBD
 
 # Advanced - (recommended for production teams)
 
-# Responsible AI with GitHub Copilot
+## Responsible AI with GitHub Copilot
 - Mitigate AI risks
 - Microsoft and GitHub's six principles of responsible AI
 
