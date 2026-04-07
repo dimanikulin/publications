@@ -52,7 +52,7 @@ Telegram, Two-Factor Authentication, Blocking, Spam, Scams, Fraud
 - **Дзвінки** → Peer-to-peer – Мої контакти
 - **Пересилання повідомлень** → Хто може додавати посилання на мій обліковий запис під час надсилання моїх повідомлень – Мої контакти
 
-<img src="./Images/Tg-Security.png" alt="Tg-Security" />
+<img src="./images/Tg-Security.png" alt="Tg-Security" />
 
 Також налаштуйте додатковий захист акаунту:
 
@@ -116,7 +116,7 @@ Telegram, Two-Factor Authentication, Blocking, Spam, Scams, Fraud
 
 Доступні дві мови, я обираю англійську як більш поширену порівняно із українською.
 
-<img src="./Images/Tg-Report.png" alt="TgReport" />
+<img src="./images/Tg-Report.png" alt="TgReport" />
 
 # Підроблені облікові записи Telegram або шахраї
 
