@@ -193,8 +193,7 @@ Telegram, Two-Factor Authentication, Blocking, Spam, Scams, Fraud
 Ось тут: http://building.raffrollo.org/ua/6
 Величезне дякую! Передай знайомим 💖*
 
-
-Tg-Fishing.png
+<img src="./images/Tg-Fishing.png" alt="TgReport" />
 
 🚩Сигнали зламаного акаунту: прочитані повідомлення, які ви не відкривали, невідомі групи/канали, дивна поведінка застосунку, часті повідомлення про вхід, запити на повторну авторизацію або змінені налаштування.
 
