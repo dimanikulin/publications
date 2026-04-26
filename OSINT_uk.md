@@ -319,3 +319,4 @@ flowchart TD
 |   | VPN                  | https://www.comparitech.com/blog/vpn-privacy/russian-ip-address-vpn/ | |  | шо працює в рф  |
 |   | Tools for OSINT in Telegram | https://hackyourmom.com/en/servisy/instrumenty-dlya-osint-v-telegram/ | |  |  |
 |   | Tools for OSINT in Telegram 2 | https://github.com/Jieyab89/OSINT-Cheat-sheet?tab=readme-ov-file#telegram-tool | |  |  |
+|  | search.cybersec.org | search.cybersec.org  |   |  BadB's Porn Club  | перший у світі відкритий інструмент для пробива з ШІ  |
