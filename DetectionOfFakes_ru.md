@@ -2,15 +2,15 @@
  
 1. точный фейк (женщина с открытым ртом) 
 
-<img src="./images/DetectionOfFakes1.jpg" alt="TBD" style="max-width: 200" />
+<img src="./images/DetectionOfFakes1.jpg"  style="max-width: 200" />
 
 2. Реальную нефейковую фотографию  (женщина с закрытым ртом)
 
-<img src="./images/DetectionOfFakes2.jpg" alt="TBD" style="max-width: 200" />
+<img src="./images/DetectionOfFakes2.jpg"  style="max-width: 200" />
 
 3. <??Неизвестно> (парни дурачатся в кафе)
 
- <img src="./images/DetectionOfFakes3.jpg" alt="TBD" style="max-width: 200" />
+ <img src="./images/DetectionOfFakes3.jpg"  style="max-width: 200" />
 
 Закинули их в разные детекторы фейков  
 
@@ -20,9 +20,9 @@
 
 И вот какой результат мы получили:
 
-<img src="./images/DetectionOfFakes4.jpg" alt="TBD" style="max-width: 200" />
-<img src="./images/DetectionOfFakes5.jpg" alt="TBD" style="max-width: 200" />
-<img src="./images/DetectionOfFakes6.jpg" alt="TBD" style="max-width: 200" />
+<img src="./images/DetectionOfFakes4.jpg"  style="max-width: 200" />
+<img src="./images/DetectionOfFakes5.jpg"  style="max-width: 200" />
+<img src="./images/DetectionOfFakes6.jpg"  style="max-width: 200" />
 
 Какие выводы мы можем сделать на основе проведённого эксперимента?
 
@@ -38,9 +38,9 @@
 Берем следующий детектор - [Was it ai](https://wasitai.com/) и теже самые фото
 И вот какой результат мы получили:
 
-<img src="./images/DetectionOfFakes7.jpg" alt="TBD" style="max-width: 200" />
-<img src="./images/DetectionOfFakes8.jpg" alt="TBD" style="max-width: 200" />
-<img src="./images/DetectionOfFakes9.jpg" alt="TBD" style="max-width: 200" />
+<img src="./images/DetectionOfFakes7.jpg"  style="max-width: 200" />
+<img src="./images/DetectionOfFakes8.jpg"  style="max-width: 200" />
+<img src="./images/DetectionOfFakes9.jpg"  style="max-width: 200" />
 
 Какие выводы мы можем сделать на основе проведённого эксперимента?
 
@@ -58,9 +58,9 @@
  
 И вот какой результат мы получили:
 
-<img src="./images/DetectionOfFakes10.jpg" alt="TBD" style="max-width: 200" />
-<img src="./images/DetectionOfFakes11.jpg" alt="TBD" style="max-width: 200" />
-<img src="./images/DetectionOfFakes12.jpg" alt="TBD" style="max-width: 200" />
+<img src="./images/DetectionOfFakes10.jpg"  style="max-width: 200" />
+<img src="./images/DetectionOfFakes11.jpg"  style="max-width: 200" />
+<img src="./images/DetectionOfFakes12.jpg"  style="max-width: 200" />
 
 Какие выводы мы можем сделать на основе проведённого эксперимента?
 
@@ -78,11 +78,11 @@
 
 Возьмём фотографию другого человека, например Анжелины Джоли
 
- <img src="./images/DetectionOfFakes13.jpg" alt="TBD" style="max-width: 200" />
+ <img src="./images/DetectionOfFakes13.jpg"  style="max-width: 200" />
 
 Детектор не выявил признаков ИИ и дипфейков,
 
-<img src="./images/DetectionOfFakes14.jpg" alt="TBD" style="max-width: 200" />
+<img src="./images/DetectionOfFakes14.jpg"  style="max-width: 200" />
 
  потому что фотография реальна, она не студийная и без обработки. Детектор #1 и #2 предсказуемо тоже определили Джоли как реальную. Обратите внимание, даже несмотря на идеальные зубы, которые всем рисует ИИ, детектор не определил фото как фейк.
 
