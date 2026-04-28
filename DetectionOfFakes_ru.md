@@ -1,3 +1,41 @@
+# Headline
+TBD
+
+# Alternative headline
+
+TBD
+
+# Table of contents
+
+- [Tags](./!Template.md#tags)
+- [Definitions, Acronyms, Abbreviations](./!Template.md#definitions-acronyms-abbreviations)
+- [Overview](./!Template.md#overview)
+- [Introduction](./!Template.md#introduction)
+- [References](./!Template.md#references)
+
+# Tags
+
+TBD
+
+# Definitions, Acronyms, Abbreviations
+
+| # | Abbreviation or Acronym | Definition     |
+| - | ------------------------|:--------------:|
+| 1 |
+
+# Overview
+
+TBD
+
+or ---
+
+# Introduction
+
+TBD
+
+<img src="./Images/TBD.jpg" alt="TBD" />
+
+
 Итак, мы взяли 3 фотографии:
  
 1. точный фейк (женщина с открытым ртом) 
@@ -89,3 +127,8 @@
 Стоит отметить, что выше указанный детектор сотрудничает с Министерством обороны США в сфере определения фейковой информации. И как мы лично убедились, не зря, т.к. выдал нам достойные результаты проверки.
 
 Какой вывод можем сделать, друзья? 
+
+# References
+
+| # | Name                 | Source                | Release date           |  Author                 | Description   |
+| - | ---------------------|---------------------- |----------------------- | ----------------------- |:-------------:|
