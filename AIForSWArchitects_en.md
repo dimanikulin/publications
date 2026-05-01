@@ -34,7 +34,7 @@ In Europe we have **UrbanSitter** and USA we have something similar
 
 So *customer* wanted implementing this marketplace platform. They wanted from us to have **Visa cards** to integrate(payment using the cards), web money and bitcoins. Also they wanted to have **Google Analytics** and put some advertisement in their platform.
  
- <img src="./Images/AIForSWArchitects1.jpg" alt="TBD" />
+ <img src="./Images/AIForSWArchitects1.jpg"  />
 
 # ChatGPT Solutions Architect Assistant
 
@@ -43,7 +43,7 @@ DOU is a big IT society in Ukraine and they have some conference in May 2024 yea
 So it helped him a lot to increase speed and decrease time of spent by to create architecture vision in times. What he said exactly he had to spend days to implement architecture and now using this assistant he had to spend just hours.
 Let simply say ChatGPT was customized to help architects so it's not usual flow for usual user and it will directly go to architect flow with inputs, outputs and another deviation.
 
-<img src="./Images/AIForSWArchitects2.jpg" alt="TBD" />
+<img src="./Images/AIForSWArchitects2.jpg"  />
 
 He provided example of simple solution to implement and he said before it it was 4 days and now using this assistant *It was able to make my architecture vision in four hours*. It was really challening for me. So I decided to check it to create Solution Architecture for my business case. It's based on **ChatGPT** so you prompt solution assistant, then you have response from it and so communication is done with this approach.
 It accepts the input information in three forms we have usually for pre-sales so it's **RFP,** **RFI** and usual text (just plain text).
@@ -53,7 +53,7 @@ This assistant was still in development, not sure about now.
 
 ## Preparation to use assistant
 
-<img src="./Images/AIForSWArchitects3.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects3.png"  />
 
 If you ask - *what about data leaks and data sharing with third party company like open AI?*
 I will answer - *You need to have some preparation before using this assistant. So I had the usual RFI (request for information) and it had a lot of details from customer. And for sure I could not put everything from a RFI to my input to this assistance. So what I did I just removed everything from pictures, from text, from tables that could identify this RFI like request from that customer.*
@@ -68,7 +68,7 @@ Please notice when you work with several rounds you could have different answers
 
 ## Service marketplace platform, Inputs
 
-<img src="./Images/AIForSWArchitects4.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects4.png"  />
 
 I used СhatGPT to help me create RFI. It had overview, some background information about marketplace platform, when I'm going to implement it. Also there was project scope and requirements - key features, functionality and so on technical requirements. And as usual there were terms and condition. I was able just to attach file so I had its input as a file and not in plain text copied from an editor. So it parsed it.
 
@@ -76,21 +76,21 @@ I used СhatGPT to help me create RFI. It had overview, some background informat
 This this assistant output is based on standard classic approach like descibed by Microsoft or Software Institute.
 So it started from business goal and constrains. then it moved to discussion use cases and main features with quality attribute scenarios.
 And then it made me happy when I got design with several views with operation plan, solution road map and team composition.
-<img src="./Images/AIForSWArchitects5.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects5.png"  />
 
 What was good with this assistant at communication -  I felt like I'm speaking with a human architect who quite is experienced in this area because I was not experienced. Still I was able to challenge it. For example I asked this assistant to prove that this point is acceptable for me. Why it choose for example Azure as a cloud platform and it explained it. So it was a kind of real communication with a kind of real architect.
 
 As I said there were several diagrams and now you can see functional decomposition.
 it's layered architecture with front end layer, backend services and databases layer.
 
-<img src="./Images/AIForSWArchitects6.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects6.png"  />
 
  Also there is integration layer with third parties like **payment gateways**, **Ad API** and **Google Analytics**.
 
 So it made three layer functional decomposition with description for each layer.
 
 And here is another functional decomposition with less details from another round.
-<img src="./Images/AIForSWArchitects7.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects7.png"  />
 
  I just meontioned it here so you see it outputs differently in different rounds of working with that.
  
@@ -105,7 +105,7 @@ Based on output I had from five rounds working with architecture assistant I cre
 It generated **Context View** so we see users like - *suppliers*, *customers* and *admins*
 Also we have *core components* with some details inside of platform - *web services*, *admin panel*, *notification service*
 And we have integration part - so *payment gateways*, *analytics* and *advertisement API*.
-<img src="./Images/AIForSWArchitects8.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects8.png"  />
 
 ## Decomposition View
 The next view is the Decomposition one - quite detailed view. And I was really happy to have it.
@@ -115,12 +115,12 @@ For *back end* we have several services - *Order management*, *Notification*, *A
 In *front end* layer there are two interfaces - for admin and for another people - so for suppliers and for customers.
 And again we have integration with *Payments gateways* and *Google API* as it was required by the customer.
 
-<img src="./Images/AIForSWArchitects9.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects9.png"  />
 
 ## Deployment View
 So moving to deployment view. It put here *backend and frontend clusters*, *payment gateways* like external systems and so on.
 What wasn't good for me - we don't know anything about exactk services we need to use here - no service name *GCP platform* we can use and it's quite misleading for me.
-<img src="./Images/AIForSWArchitects10.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects10.png"  />
 
 Here you can comment: *So the diagram is let's say cloud agnostic I would say So that's just a very basic one.But personally I always struggling with the cloud services the existing on AWS or whatever and that's the main point for me because I'm not the back end let's say solution architect etc.* *So what if this solution might dive deeper and propose the exact solution based on the existing cloud services etc. And this diagram is I would say even primitive one like that's a very basic concept like giving the composition between services etc.*
 *So I wouldn't use even that right because I can draw it on my own but from what I really would like to have a help of the s sort of assistance proposing the really existing services and maybe even the prompts give me the cheap best solution or… the fastest like the scale available solution etc. That would help building this solution out of the existing services and maybe some plan how to set up that on the infrastructure side to make it scalable etc etc*. *If we are talking about the exact AWS services I don't know and that would be one of the inputs right I need to build some AWS solution. Does this **GenAI accelerator** or what can provide the diagram mentioning the exact cloud services like this?*
@@ -130,22 +130,22 @@ Here you can comment: *So the diagram is let's say cloud agnostic I would say So
 It suggested this *core team composition*. So there is 12 people working with this product.
 So it has one *project manager*, *business analyst*, *solution architect*, five *software developers*, two *DevOps* and two *QA engineers* with their required skills and responsibilities.
 
-<img src="./Images/AIForSWArchitects11.jpg" alt="TBD" />
+<img src="./Images/AIForSWArchitects11.jpg"  />
 
 ## Roadmap
 It provided road map so it has about one half an year to implement this project from *project initialization* until *post deployment support* so when it is already on production.
-<img src="./Images/AIForSWArchitects12.jpg" alt="TBD" />
+<img src="./Images/AIForSWArchitects12.jpg"  />
 
 # Conclusion
 ## Timing
 So for this particular quite simple use case business case I spent a half a day to get everything from *requirement definition* and *business case description* until *team composition*. I think if it was real life without help of assistant I would spend about three or even four days to create the those artifacts. So for me it decreased time four times I spent on architecture.
-<img src="./Images/AIForSWArchitects13.jpg" alt="TBD" />
+<img src="./Images/AIForSWArchitects13.jpg"  />
 
 ## What was good and what was not good 
 It provides all diagrams in **plant UML** so you can insert this **Plant UML** for example **into Draw.IO** and it will generate htose diagrams.
 But all diagrams were portrait oriented and they didn't fit usual presentation page.
 Probably it can be changed it but I didn't ask it to change orientation to be not portrayed but album so all diagrams fit usual presentation.
-<img src="./Images/AIForSWArchitects14.png" alt="TBD" />
+<img src="./Images/AIForSWArchitects14.png"  />
 The *context diagram* based on **plant UML** was quite good but keep too much details as for me inside of.
 And what I already said *deployment view* wasn't good in detail so it didn't provide cloud terms, cloud service names and so on.
 And it provided *CI views* and they were for me fully useless.
