@@ -319,4 +319,5 @@ flowchart TD
 |   | VPN                  | https://www.comparitech.com/blog/vpn-privacy/russian-ip-address-vpn/ | |  | шо працює в рф  |
 |   | Tools for OSINT in Telegram | https://hackyourmom.com/en/servisy/instrumenty-dlya-osint-v-telegram/ | |  |  |
 |   | Tools for OSINT in Telegram 2 | https://github.com/Jieyab89/OSINT-Cheat-sheet?tab=readme-ov-file#telegram-tool | |  |  |
-|  | search.cybersec.org | search.cybersec.org  |   |  BadB's Porn Club  | перший у світі відкритий інструмент для пробива з ШІ  |
+|   | search.cybersec.org | search.cybersec.org  |   |  BadB's Porn Club  | перший у світі відкритий інструмент для пробива з ШІ  |
+|   | глобальна інтерактивна мапа в межах проєкту UNISHKA | [Source](https://www.google.com/maps/d/viewer?mid=1Cqkuml0oCvnmNa_F7hw2Mn96HaLUPtc&femb=1&ll=30.41146782892226%2C56.23101810338147&z=3)   | Release date           |  Author                 | яка об’єднує OSINT-ресурси та відкриті джерела інформації з різних країн світу. Мапа постійно оновлюється та доповнюється новими країнами й джерелами даних через серію [OSINT World Series](https://unishka.com/osint-world-series/)   |
